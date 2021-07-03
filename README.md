@@ -41,14 +41,6 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 TechPreneur is a blog website for learning Web, coding and design. Including new technologies and frameworks and anything really related to development world.
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 
 ![Anjianto's github stats](https://github-readme-stats.vercel.app/api?username=anjianto&count_private=true&theme=tokyonight)
