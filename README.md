@@ -1,16 +1,53 @@
-### Hi there 👋
+## Hi I'm Anji <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<!--
-**Anjianto/anjianto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anjianto a Full Stack Web Developer and Writer on [Blog](https://techpreneur.vercel.app). I Spend most of time coding outstanding projects or write blogs.
 
-Here are some ideas to get you started:
+:mailbox: Reach me out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/-@_anjianto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anjianto)](https://twitter.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-@_anjianto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-anjianto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anjianto06@gmail.com)
+
+- :computer: Most used line of code `git commit -m "Initial Commit"`
+- 🤔 I'm looking for help with Outstanding Blog ideas.
+- 📫 How to reach me: anjianto06@gmail.com.
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)](#) 
+<br />
+<br />
+
+#### Bizness
+<!-- TODO: Make Resume -->
+<!-- - :paperclip: [My Resume/CV](https://github.com/anjianto/anjianto/blob/master/resumes/resume%20v1.0.pdf) -->
+- :email: anjianto06@gmail.com
+
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=anjianto.anjianto)
+
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+<br >
+
+I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why TechPreneur Blog exists!
+
+#### What is TechPreneur?
+
+TechPreneur is a blog website for learning Web, coding and design. Including new technologies and frameworks and anything really related to development world.
+
+#### Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### Github Stats
+
+![Anjianto's github stats](https://github-readme-stats.vercel.app/api?username=anjianto&count_private=true&theme=tokyonight)
+
+</details>
