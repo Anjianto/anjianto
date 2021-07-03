@@ -44,6 +44,9 @@ TechPreneur is a blog website for learning Web, coding and design. Including new
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
