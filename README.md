@@ -4,7 +4,7 @@ I'm Anjianto a Full Stack Web Developer and Writer on [Blog](https://techpreneur
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@_anjianto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_anjianto)](https://twitter.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-@_anjianto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-anjianto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anjianto06@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@__anjianto-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/__anjianto)](https://twitter.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-@__anjianto-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_anjianto) [![Mail Badge](https://img.shields.io/badge/-anjianto-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anjianto06@gmail.com)
 
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I'm looking for help with Outstanding Blog ideas.
