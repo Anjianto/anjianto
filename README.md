@@ -18,7 +18,7 @@ I'm Anjianto a Full Stack Web Developer and Writer on [Blog](https://techpreneur
 <br />
 <br />
 
-#### Bizness
+#### Business
 <!-- TODO: Make Resume -->
 <!-- - :paperclip: [My Resume/CV](https://github.com/anjianto/anjianto/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: anjianto06@gmail.com
