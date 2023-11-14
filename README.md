@@ -1,6 +1,6 @@
 ## Hi I'm Anji <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Anjianto a Front-End Web Developer and Writer on [Blog](https://techpreneur.vercel.app). I Spend most of time coding outstanding projects or write blogs.
+I'm Anjianto a Front-End Web Developer and Writer on [Blog](https://anjianto.id). I Spend most of time coding outstanding projects or write blogs.
 
 :mailbox: Reach me out!
 
